@@ -22,6 +22,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
     "@eslint/js": "^9.23.0",
+    "@types/express": "^5.0.1",
     "@types/jest": "^29.5.14",
     "@types/module-alias": "^2.0.4",
     "@types/node": "^22.13.13",
@@ -37,6 +38,8 @@
   },
   "packageManager": "yarn@4.7.0",
   "dependencies": {
+    "@overnightjs/core": "^1.7.6",
+    "express": "^4.21.2",
     "module-alias": "^2.2.3"
   }
 }
